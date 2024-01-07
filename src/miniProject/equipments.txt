@@ -1,0 +1,5 @@
+soccer ball:5
+goal gloves:3
+tennis balls:2
+volley ball:3
+any racquet:5

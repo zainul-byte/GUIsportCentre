@@ -1,0 +1,6 @@
+Futsal Court;90
+Tennis Court;50
+Volleyball Court;100
+Takraw Court;60
+Badminton Court;40
+Squasy Court;55
